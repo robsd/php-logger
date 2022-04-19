@@ -5,7 +5,7 @@ A simple PHP and JavaScript AJAX logger that logs IP addresses, their URI reques
 ## Installing on your own site
 
 1. Copy the `<script src="logger/js/script.js"></script>` declaration on every page you want to enable logging.
-2. Copy the **logger** folder.
+2. Copy the **logger** folder to your web server.
 3. Thats it! If everything works, you should start seeing entries added to the **logger/log.txt** file.
 
 ## IMPORTANT NOTICE
