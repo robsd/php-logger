@@ -17,3 +17,9 @@ A simple PHP and JavaScript AJAX logger that logs IP addresses, their URI reques
 ## Need a hint?
 
 See the bottom of **example.html** for how to declare the JavaScript.
+
+## Support my work
+
+If you like this repo or used any of the code, please star ⭐ it and consider supporting me below...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F34TIDQ)
